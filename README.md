@@ -1,0 +1,2 @@
+# gyar
+forgalomkimutatas
